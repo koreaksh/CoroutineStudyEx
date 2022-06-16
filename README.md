@@ -1,4 +1,4 @@
-2022-06-15
+2022-06-14
 Coroutin study start
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -7,6 +7,6 @@ Coroutin study start
 
 | day  |학습 내용|
 | ------  |----------- |
-| 2022.06.15  | What Coroutine? |
-| 2022.06.16  | CoroutineBuilder, Scope|
-| 2022.06.17  | SuspendFunction, Structured concurrency |
+| 2022.06.14  | What Coroutine? |
+| 2022.06.15  | CoroutineBuilder, Scope|
+| 2022.06.16  | SuspendFunction, Structured concurrency |
