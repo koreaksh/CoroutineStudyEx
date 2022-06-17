@@ -10,3 +10,4 @@ Coroutin study start
 | 2022.06.14  | What Coroutine? |
 | 2022.06.15  | CoroutineBuilder, Scope|
 | 2022.06.16  | SuspendFunction, Structured concurrency |
+| 2022.06.17  | CoroutinCancel, Dispatcher상황에맞게사용, async, Deferred |
