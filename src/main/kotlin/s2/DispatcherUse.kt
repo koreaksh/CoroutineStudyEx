@@ -3,6 +3,7 @@ package s2
 import kotlinx.coroutines.*
 
 //상황에맞는 Dispatcher 이용
+//async 반환값이 필요한 경우 사용 반환은 Deferred
 
 fun main() = runBlocking() {
     val arrayData = async(Dispatchers.IO) {
