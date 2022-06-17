@@ -7,7 +7,6 @@ import kotlinx.coroutines.*
 
 fun main() = runBlocking() {
     val arrayData = async(Dispatchers.IO) {
-        println("dd")
         arrayOf(1, 3, 5, 4, 2)
     }
     val sortArray = async(Dispatchers.Default) {
